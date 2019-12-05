@@ -1,4 +1,4 @@
-#Stegnography using Python
+# Stegnography using Python
 
 * Requirements:
 The code requires python3 installed along with stegano library.
