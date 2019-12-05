@@ -1,6 +1,6 @@
 # Stegnography using Python
 
-* Requirements:
+* # Requirements:
 The code requires python3 installed along with stegano library.
 To install stegano library:
  ```bash
